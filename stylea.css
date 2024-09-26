@@ -1,0 +1,78 @@
+body{
+    margin: 10px;
+    padding: 0;
+     background-image: linear-gradient(to left, rgba(255,0,0,0), rgba( 247, 255, 0,90%));
+}
+.home{
+    background: rgba(245,0,0,1);
+    width: 50px;
+    padding: 5px;
+    display: inline-block;
+}
+.home a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    
+}
+.home:hover{
+    background: black;
+}
+.about h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.about p{
+    text-align: center;
+    font-family: font-family: 'CharukolaUltraLight', sans-serif;
+}
+.example  li{
+    list-style-type:circle;
+    display: block;
+    text-align: center;
+    list-style-type: square;
+}
+.example{
+    background: none;
+    overflow: visible;
+}
+legend h5{
+    text-align: center;
+}
+.member h2{
+    text-align: center;
+    border: 1px solid;
+    margin: 5px;
+    border-bottom-style: dotted;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border: 1px solid white;;
+    margin-top: 10px;
+    float: left;
+    margin: 30px;
+}
+.mizan,
+.sadikul,
+.tusher,
+.sourov,
+.josim{
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.4);
+}
+.mizan p{
+    margin: 0;
+}
+.sadikul p{
+    margin: 0;
+}
+.tusher p{
+    margin: 0;
+}
+.sourov p{
+    margin: 0;
+}
+.josim P{
+    margin: 0;
+}

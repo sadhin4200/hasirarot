@@ -1,0 +1,36 @@
+@media screen and (max-width: 430px) {
+    .bodysection{
+    width: 100%;
+    height: 90%;
+    background-image: linear-gradient(to left,rgba(996,0,0,0.5),rgba(255,255,255,0.8));
+    margin-top: 5px;
+        border: none;
+        background: none;
+        box-shadow: none;
+    }
+    .captionbox{
+    width: 85%;
+    height: 90%;
+    box-shadow: 0px 0 5px 0px;
+}
+    .thumbbox{
+    width: 85%;
+    height: 90%;
+    box-shadow: 0px 0 5px 0px;
+        margin: 40px;
+    }
+    .coming-soon img{
+        width: 250px;
+    }
+    .thumbbox .coming-soon{
+     margin: 48px;
+    }
+    .breaking{
+        background:none;
+    }
+    .headline{
+    height: 22px;
+    width: 100%;
+    background:none;
+}
+}
